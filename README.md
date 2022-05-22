@@ -1,5 +1,7 @@
 # Digital Wallet App
 
+Hey how are u?
+mi bad english.... bla bla bla
 Ever thought of creating a beautiful UI App for use in Online Payments? Then this is it
 
 ## ✨ Requirements
@@ -24,4 +26,4 @@ Ever thought of creating a beautiful UI App for use in Online Payments? Then thi
 
 ## 🤓 Author(s)
 
-**Simoniel Musyoki**
+**Hernan Pormachi**
